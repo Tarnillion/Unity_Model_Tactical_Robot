@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/01_Operation_Tutorial.unity
+    guid: 6f7c16603aa063f4694d76c6ea9c48a0
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/02_00_Angry_Karl_A_Menu.unity
+    guid: e5ea64ee915b14345b55bb5f2ccc5233
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/02_01_Angry_Karl_A.unity
+    guid: d50c47b7f161f92449229787198a03f0
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/03_00_Angry_Karl_B_Menu.unity
+    guid: 7547408fb34b3354fa6d20414fdbd5b7
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/00_Scene_Selector.unity
+    guid: de82db0b371121e44b6dc2817b46decd
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/03_01_Angry_Karl_B.unity
+    guid: 7aded530846b5b840b198cc288441518
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/04_00_Escort_Mission_A_Menu.unity
+    guid: 5219493a30b1a014a92ac8b0f9265868
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/Plain_Field.unity
+    guid: 39464696c9033604681335c4f568933c
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/Minimum_Scene.unity
+    guid: cc6311cce2d906440b4b56a81c1961ff
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/HighQualityPhysics_Scene.unity
+    guid: 88837a2aeb1d68742bdaef1567cdd216
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/Exam_Field.unity
+    guid: 6b3eddb359421884594432d516f3328c
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/Base_Field.unity
+    guid: c62e51962684eb842bcad34d9297efcd
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/09_01_Escape_Mission.unity
+    guid: 549ab771c990de143bcbf15a7453c706
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/09_00_Escape_Mission_Menu.unity
+    guid: d662b6642ca1f0847bea00c60e2a3611
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/08_01_Speed_Battle.unity
+    guid: 3f9a727b40ee88c47b2de11f1965cf0a
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/08_00_Speed_Battle_Menu.unity
+    guid: 3fe5b38c843503545919aeaabe587d00
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/07_01_Field_Battle_B.unity
+    guid: 6d68dd8d1fcec11479b5f0414be6e1d5
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/07_00_Field_Battle_B_Menu.unity
+    guid: 1e18c1177b9937749a3dc221e9f3688e
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/06_01_Field_Battle_A.unity
+    guid: 0c4f781297a52ec4fa2b2037f31a921b
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/06_00_Field_Battle_A_Menu.unity
+    guid: bed309589f2fcb148a69bfc278c80d9a
+  - enabled: 1
+    path: Assets/Physics Tank Maker/Demo_Scenes/05_01_Escort_Mission_B.unity
+    guid: fd1f91347b4613c4aaf6bd4fbbe4611b
+  m_configObjects: {}
